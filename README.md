@@ -1,7 +1,8 @@
 ## Sample Vanilla php code.
 
 #### Steps:
-- Generate API key from [Royce bulksms]('http://bulksms.roycetechnologies.co.ke/')
+
+- Open a free account [Royce BulkSMS](http://bulksms.roycetechnologies.co.ke), under API menu click generate API
 - Clone this repository
 - Copy to your web root directory
 - Vist /testfile.php
